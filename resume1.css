@@ -1,0 +1,11 @@
+<style>
+html,body,h1,h2,h3,h4,h5,h6 {font-family: "Avenir", sans-serif}
+.w3-custom-blue {background-color: #344194; color: white}
+footer {background: linear-gradient(to bottom, #202121, #334a93); 
+        padding: 20px;
+        text-align: center;
+        color: #c8c5bf;}
+div.b {
+  text-align: left;
+}        
+</style>
